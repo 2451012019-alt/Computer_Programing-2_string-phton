@@ -1,1 +1,1 @@
-# Computer_Programing-2_string-phton
+# Computer_Programing-2_string-phyton
